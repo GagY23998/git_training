@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago!
 To the window to the wall
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Heeeey hey hey hey
+Gagi
+>>>>>>> faa3b06fe034d80883f75aa8fdfc3f86735e0f78
